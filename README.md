@@ -46,7 +46,7 @@ To strictly fulfill the course requirements, the application extracts raw data f
 
 ## 7. Flowchart / System Architecture
 
-```text
+~~~text
 [User View: index.php] <------------------------+
        |                                        |
        v (POST Vote Array)                      |
@@ -60,3 +60,24 @@ To strictly fulfill the course requirements, the application extracts raw data f
                    +-> 1. Iterate Array & execute BST Insert Algorithm()
                    +-> 2. Execute Reverse In-Order Traversal() on Tree
                    +-> 3. Return Sorted Data Array to Admin View
+
+~~~
+
+
+## 8. Screenshots of the System
+*(Note: Replace these placeholders with actual screenshots from your local environment before submission)*
+
+* `placeholder` - Demonstrates user creation.
+* `placeholder` - Shows the categorized positions and Straight-Ticket buttons.
+* `placeholder` - Displays candidate registration, Party Standings, and the BST-sorted Leaderboard.
+
+## 9. Conclusion
+This project successfully simulates a functional, mobile-responsive Online Voting System while demonstrating core computer science concepts. By offloading the sorting mechanism from the database engine to the PHP application layer using a Binary Search Tree, the system effectively proves the practical utility of tree traversal algorithms in achieving ordered data presentations in real-world software development. 
+
+## 10. References
+* Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms* (3rd ed.). MIT Press.
+* PHP Data Objects (PDO) Documentation. (n.d.). Retrieved from [https://www.php.net/manual/en/book.pdo.php](https://www.php.net/manual/en/book.pdo.php)
+* Tailwind CSS Framework Documentation. (n.d.). Retrieved from [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
+
+
+
