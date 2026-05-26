@@ -65,11 +65,11 @@ To strictly fulfill the course requirements, the application extracts raw data f
 
 
 ## 8. Screenshots of the System
-*(Note: Replace these placeholders with actual screenshots from your local environment before submission)*
 
-* `placeholder` - Demonstrates user creation.
-* `placeholder` - Shows the categorized positions and Straight-Ticket buttons.
-* `placeholder` - Displays candidate registration, Party Standings, and the BST-sorted Leaderboard.
+![1](1.jpg) 
+![2](2.jpg) 
+![3](3.jpg) 
+
 
 ## 9. Conclusion
 This project successfully simulates a functional, mobile-responsive Online Voting System while demonstrating core computer science concepts. By offloading the sorting mechanism from the database engine to the PHP application layer using a Binary Search Tree, the system effectively proves the practical utility of tree traversal algorithms in achieving ordered data presentations in real-world software development. 
