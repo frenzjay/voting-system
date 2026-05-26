@@ -66,9 +66,9 @@ To strictly fulfill the course requirements, the application extracts raw data f
 
 ## 8. Screenshots of the System
 
-![1](1.png) 
-![2](2.png) 
-![3](3.png) 
+![1](screenshots/1.png) 
+![2](screenshots/2.png) 
+![3](screenshots/3.png) 
 
 
 ## 9. Conclusion
